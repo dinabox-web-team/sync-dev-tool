@@ -1,0 +1,46 @@
+# sync-dev - Arquivos a ignorar no Git
+
+# Arquivo de configuração com credenciais
+.sync-config.ini
+
+# Estado de sincronização
+.server-sync.inf
+
+# Logs
+logs/
+*.log
+
+# Chaves SSH (nunca commitar!)
+*.pem
+*.key
+ssh_key
+id_rsa
+id_rsa.pub
+
+# Temporários
+tmp/
+temp/
+*.tmp
+
+# Node
+node_modules/
+package-lock.json
+
+# PHP
+vendor/
+composer.lock
+
+# Build
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
