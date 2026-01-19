@@ -1,0 +1,6 @@
+title: sync-dev Documentation
+theme: minima
+description: Documentação do sync-dev — sincronização SSH com monitoramento
+baseurl: ""
+url: "https://dinabox-web-team.github.io/sync-dev-tool"
+markdown: kramdown
