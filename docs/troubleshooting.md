@@ -1,8 +1,6 @@
 ---
-title: Troubleshooting / FAQ
+title: Troubleshooting
 ---
-
-{% include theme-switcher.html %}
 
 ## 🛠 Troubleshooting — Soluções rápidas
 

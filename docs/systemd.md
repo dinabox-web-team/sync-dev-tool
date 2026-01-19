@@ -1,8 +1,6 @@
 ---
-title: Running sync-dev as a systemd Service
+title: Systemd
 ---
-
-{% include theme-switcher.html %}
 
 ## ⚙️ Executar `sync-dev --watch` como serviço (systemd)
 

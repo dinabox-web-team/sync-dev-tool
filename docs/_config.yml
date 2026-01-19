@@ -4,9 +4,8 @@ author:
   email: cristiano@dinabox.email
 
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  Ferramenta de sincronização SSH com monitoramento em tempo real. 
+  Sincronize diretórios locais com servidores remotos via rsync.
 
 theme: minima
 
@@ -14,9 +13,12 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-sass:
-  quiet_deps: true
-  silence_deprecations: [import]
+header_pages:
+  - index.md
+  - quick-start.md
+  - install.md
+  - sync.md
+  - troubleshooting.md
 
 minima:
   skin: auto

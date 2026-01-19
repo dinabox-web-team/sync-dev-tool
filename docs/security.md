@@ -1,8 +1,6 @@
 ---
-title: Segurança
+title: Security
 ---
-
-{% include theme-switcher.html %}
 
 ## 🔒 Recomendações de Segurança
 

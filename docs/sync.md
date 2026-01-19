@@ -1,8 +1,6 @@
 ---
-title: Sync & Watch
+title: Usage
 ---
-
-{% include theme-switcher.html %}
 
 ## 🔁 Uso (sync / watch)
 

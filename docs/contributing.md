@@ -1,8 +1,6 @@
 ---
-title: Contribuir
+title: Contributing
 ---
-
-{% include theme-switcher.html %}
 
 Contribuições são bem‑vindas! Sugestões:
 

@@ -1,8 +1,6 @@
 ---
-title: Quick Start — Download & Install
+title: Quick Start
 ---
-
-{% include theme-switcher.html %}
 
 ## 🚀 Quick Start
 
