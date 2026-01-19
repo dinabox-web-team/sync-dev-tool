@@ -21,7 +21,7 @@ header_pages:
   - troubleshooting.md
 
 minima:
-  skin: auto
+  skin: dark
   show_excerpts: false
 
   # Minima date format.
