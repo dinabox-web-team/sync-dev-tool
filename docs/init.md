@@ -2,6 +2,8 @@
 title: Init
 ---
 
+{% include theme-switcher.html %}
+
 ## 🧭 Inicialização (`--init`)
 
 Crie um template de configuração no diretório atual:

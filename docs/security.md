@@ -2,6 +2,8 @@
 title: Segurança
 ---
 
+{% include theme-switcher.html %}
+
 ## 🔒 Recomendações de Segurança
 
 - **Verifique o script** antes de executar quando baixar diretamente da web:

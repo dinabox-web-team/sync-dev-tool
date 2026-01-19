@@ -2,6 +2,8 @@
 title: Sync & Watch
 ---
 
+{% include theme-switcher.html %}
+
 ## 🔁 Uso (sync / watch)
 
 Sincronize uma vez:

@@ -2,6 +2,8 @@
 title: Troubleshooting / FAQ
 ---
 
+{% include theme-switcher.html %}
+
 ## 🛠 Troubleshooting — Soluções rápidas
 
 Abaixo estão problemas comuns, causas prováveis e como coletar informações para depuração.

@@ -2,6 +2,8 @@
 title: Install
 ---
 
+{% include theme-switcher.html %}
+
 ## 🔧 Instalação
 
 O comando `--install` copia o script para `/usr/local/bin/sync-dev` e adiciona permissão de execução.

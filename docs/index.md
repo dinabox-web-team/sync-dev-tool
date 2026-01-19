@@ -2,6 +2,8 @@
 title: Bem-vindo
 ---
 
+{% include theme-switcher.html %}
+
 # sync-dev — Documentação
 
 Bem-vindo à documentação do **sync-dev**. Esta documentação está organizada em etapas claras para facilitar o uso e a instalação.

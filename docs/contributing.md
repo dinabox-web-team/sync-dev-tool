@@ -2,6 +2,8 @@
 title: Contribuir
 ---
 
+{% include theme-switcher.html %}
+
 Contribuições são bem‑vindas! Sugestões:
 
 - Abra uma branch a partir de `main` para mudanças pequenas/rápidas e crie um Pull Request.

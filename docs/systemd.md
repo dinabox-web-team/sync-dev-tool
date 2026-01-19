@@ -2,6 +2,8 @@
 title: Running sync-dev as a systemd Service
 ---
 
+{% include theme-switcher.html %}
+
 ## ⚙️ Executar `sync-dev --watch` como serviço (systemd)
 
 Rodar `sync-dev` como um serviço permite que ele reinicie automaticamente e seja gerenciado pelo systemd.

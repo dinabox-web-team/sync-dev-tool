@@ -2,6 +2,8 @@
 title: Quick Start — Download & Install
 ---
 
+{% include theme-switcher.html %}
+
 ## 🚀 Quick Start
 
 Baixe a versão mais recente e estável (branch `main`) e instale:
